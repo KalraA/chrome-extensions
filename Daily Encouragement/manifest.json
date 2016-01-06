@@ -1,0 +1,12 @@
+{
+"manifest_version": 2,
+"name": "Daily Encouragement",
+"version": "1.0.0",
+"version_name": "1.0 Alpha",
+"permissions": [
+  "http://www.sgi.org/about-us/president-ikedas-writings/daily-encouragement/"
+],
+"chrome_url_overrides": {
+"newtab":"Page.html"
+}
+}
